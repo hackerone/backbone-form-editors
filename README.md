@@ -7,10 +7,11 @@ Set of additional advanced editors for Backbone Forms(https://github.com/powmedi
 
 ## Currently supported
 
-- Selectize (with remote option)
+- Selectize (with remote option) - using http://brianreavis.github.io/selectize.js/
 - Google Maps
 
 
 ## Planned editors
 - Date time picker
+- Color Picker
 
