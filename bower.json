@@ -1,0 +1,33 @@
+{
+  "name": "backbone-form-editors",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hackerone/backbone-form-editors",
+  "description": "Additional advanced editors for Backbone Forms",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "backbone",
+    "backbone-forms",
+    "backbone-form-editors",
+    "selectize",
+    "google",
+    "maps"
+  ],
+  "authors": [
+    "Ganesh <hackerone@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.7.0",
+    "selectize": "~0.11.2"
+  }
+}
